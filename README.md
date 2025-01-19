@@ -16,7 +16,7 @@ Welcome to my first React project! This is a simple and interactive **Tic-Tac-To
 
 ## 🚀 Live Demo
 
-[Click here to view the live project!]([https://your-deployment-link.com](https://tic-tac-oq710rxl9-ishwaryas-projects-200a70f6.vercel.app/))
+[Click here to view the live project!](https://tic-tac-oq710rxl9-ishwaryas-projects-200a70f6.vercel.app/)
 
 ---
 
