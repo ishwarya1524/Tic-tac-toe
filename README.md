@@ -24,6 +24,6 @@ Welcome to my first React project! This is a simple and interactive **Tic-Tac-To
 
 - **Frontend**: React.js
 - **Styling**: CSS
-- **Deployment**: [GitHub Pages / Vercel / Netlify]
+- **Deployment**: [Vercel]
 
 ---
